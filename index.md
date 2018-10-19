@@ -29,10 +29,10 @@ If you are interested in database research, especially topics in large scale gra
 
 <br/>
 
-### <span style="color:blue">Bio</span>
+### About Me
 
 
-Xiaofei Zhang obtained his Ph.D. from the Hong Kong University of Science and Technology in 2013. He joined the Department of Computer Science, University of Memphis, in the fall of 2018. Before that, he was a postdoc research fellow at the University of Waterloo's [Cheriton School of Computer Science][dsg]. He also worked as a postdoc in the [Chinese University of Hong Kong][cuhk] and [HKUST][hkust] in 2014 and 2015, respectively.
+Hi ~ I got my Ph.D. in computer science & engineering from the [Hong Kong University of Science and Technology][hkust] in 2013. Before joining the University of Memphis, I was a postdoc research fellow at the University of Waterloo's [Cheriton School of Computer Science][dsg]. I also worked as a postdoc in the [Chinese University of Hong Kong][cuhk] and [HKUST][hkust] in 2014 and 2015, respectively.
 
 
 ### <span style="color:blue">Research Interests</span>

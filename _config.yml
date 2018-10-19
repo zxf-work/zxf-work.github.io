@@ -19,7 +19,7 @@ description: >
   Keep learning ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zxf-work.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xiaofei.zhang
+twitter_username: xiaofeizhang9
 github_username:  zxf-work
 
 # Build settings
