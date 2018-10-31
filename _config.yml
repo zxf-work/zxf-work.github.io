@@ -11,7 +11,7 @@ title                    : "Xiaofei Zhang"
 title_separator          : "-"
 name                     : &name "Xiaofei"
 description              : &description "Xiaofei's homepage"
-url                      : https://zxf-work.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.cs.memphis.edu/~xzhang12" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zxf-work/zxf-work.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : "Memphis, Tennessee"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=IBy4k-4AAAAJ&hl=zh-TW&oi=sra"
-  email            :
+  email            : "xiaofei.zhang@memphis.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -112,6 +112,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+
+
 
 
 # Reading Files
