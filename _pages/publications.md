@@ -24,8 +24,8 @@ _Xiaofei Zhang_, Lei Chen. Cloud Computing and Digital Media, 191-234, 2014.
 
 Journals 
 =======
-* Correlation Constraint Shortest Path over Large Multi-Relation Graphs.
-_Xiaofei Zhang_, M. Tamer \"Ozsu. Proceedings of the VLDB Endowment Vol. 12 (Accepted)
+* Correlation Constraint Shortest Path over Large Multi-Relation Graphs.  
+_Xiaofei Zhang_, M. Tamer Özsu. Proceedings of the VLDB Endowment Vol. 12 (Accepted)
 
 * Distance-Aware Selective Online Query Processing Over Large Distributed Graphs.  
 _Xiaofei Zhang_, Lei Chen. Data Science and Engineering, Vol. 1, pp. 1-20, 2017
