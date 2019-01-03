@@ -1,11 +1,9 @@
 ---
-title: "Publications"
+title: ""
 collection: publications
-permalink: /publications/pub
+permalink: /publications/
 ---
 
-
-[Google Scholar Entry](https://scholar.google.ca/citations?user=IBy4k-4AAAAJ&hl=en)
 
 ### Book Chapter
 
