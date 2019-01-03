@@ -11,9 +11,9 @@ title                    : "Xiaofei Zhang"
 title_separator          : "-"
 name                     : &name "Xiaofei"
 description              : &description "Xiaofei's homepage"
-url                      : "http://zxf-work.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zxf-work.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zxf-work/zxf-work.github.io"
+repository               : "zxf-work.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
