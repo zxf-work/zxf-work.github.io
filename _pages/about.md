@@ -21,8 +21,8 @@ I am fasinated by developing new algorithms and toolkits for time efficient and 
 ***
 ***
 
-_<span style="color:maroon">Fully funded Ph.D. position available!</span>_  
-If you are interested in database research, especially topics in large scale graph management, e.g., noval storage format, query engine design & optimization, approximate analytics and among others, please contact me.
+<!--_<span style="color:maroon">Fully funded Ph.D. position available!</span>_  
+If you are interested in database research, especially topics in large scale graph management, e.g., novel storage format, query engine design & optimization, approximate analytics and among others, please contact me. -->
 
 
 ***

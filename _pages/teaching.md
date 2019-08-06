@@ -12,12 +12,15 @@ author_profile: true
 {% endfor %}
 
 
-2019 Spring
+2019 Fall
 ======
-* COMP7991/8991: Big Data Computing 
+* COMP7118: Data Mining
 
-* COMP4118/6118: Introduction to Data Mining
 
 Past
 ======
+COMP7991/8991: Big Data Computing 
+
+COMP4118/6118: Introduction to Data Mining
+
 CS348: Introduction to Database Systems (2018 Spring, 2016 Fall)
