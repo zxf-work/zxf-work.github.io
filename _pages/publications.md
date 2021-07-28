@@ -44,6 +44,9 @@ _Xiaofei Zhang_, Lei Chen, Min Wang. Proceedings of the VLDB Endowment Vol. 5 (1
 
 Conferences
 =======
+* ELite: Cost-effective Approximation of Exploration-based Graph Analysis.
+_Xiaofei Zhang_, M. Tamer Özsu, Lei Chen. Proceedings of the 3rd Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), 2020
+
 * Tracking Frequent Items over Distributed Probabilistic Data.  
 Yongxin Tong, _Xiaofei Zhang_, Lei Chen. World Wide Web, Vol. 19 (4), pp. 579-604, 2016
 

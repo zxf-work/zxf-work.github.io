@@ -12,15 +12,19 @@ author_profile: true
 {% endfor %}
 
 
-2019 Fall
+Fall 2021
 ======
-* COMP7118: Data Mining
+* COMP7118/8118-M50: Data Mining
+
+* COMP7116/8116: Advanced Database Systems
 
 
 Past
 ======
-COMP7991/8991: Big Data Computing 
+COMP7118/8118: Data Mining (F2019, S/F2020, S2021)
 
-COMP4118/6118: Introduction to Data Mining
+COMP7991/8991: Big Data Computing (S2019)
 
-CS348: Introduction to Database Systems (2018 Spring, 2016 Fall)
+COMP4118/6118: Introduction to Data Mining (S2019)
+
+CS348: Introduction to Database Systems (W2018, F2016)
