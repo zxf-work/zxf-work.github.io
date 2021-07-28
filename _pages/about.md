@@ -11,6 +11,7 @@ redirect_from:
 
 I got my Ph.D. in computer science and engineering from the Hong Kong University of Science and Technology in 2013. Before joining the University of Memphis's [Department of Computer Science][cs], I was a postdoc research fellow at the University of Waterloo's [Cheriton School of Computer Science][dsg]. I also worked as a postdoc in the [Chinese University of Hong Kong][cuhk] and [HKUST][hkust] in 2014 and 2015, respectively.
 
+## Research Interests
 
 I am fasinated by developing new algorithms and toolkits for time efficient and scalable data management. From traditional RDBMS query acceleration to emerging semantic-rich, knowledge-extractable graph data management, my research insterest spans accross novel storage model, query optimization (both exact and approximate), and the theory of data-intensive parallel/distributed computing.  
 
