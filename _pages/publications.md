@@ -24,6 +24,9 @@ _Xiaofei Zhang_, Lei Chen. Cloud Computing and Digital Media, 191-234, 2014.
 
 Journals 
 =======
+* Hu-Fu: Efficient and Secure Spatial Queries over Data Federation. 
+Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, _Xiaofei Zhang_, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv. Proceedings of the VLDB Endowment Vol. 15 (to appear)
+
 * Correlation Constraint Shortest Path over Large Multi-Relation Graphs.  
 _Xiaofei Zhang_, M. Tamer Özsu. Proceedings of the VLDB Endowment Vol. 12 (5), pp. 488-501, 2019
 
