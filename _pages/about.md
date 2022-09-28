@@ -22,11 +22,11 @@ If you are interested in database research, especially topics in large scale gra
 
 ## News
 
-2022.08 We received an external funding from FedEx Corporate Services Inc. to develop machine learning models for APT detection. (PI: Kan Yang, Co-PI: Xiaofei Zhang)
+<p style="color:blue;">2022.08</p> We received an external funding from FedEx Corporate Services Inc. to develop machine learning models for APT detection. (PI: Kan Yang, Co-PI: Xiaofei Zhang)
 
-2022.06 Our pilot project "Real-time Log Analysis for Network Security Monitoring using Graph Database" is funded by the Frontier Program from FedEx Instititue for Technology. (PI: Xiaofei Zhang)
+<p style="color:blue;">2022.06</p> Our pilot project "Real-time Log Analysis for Network Security Monitoring using Graph Database" is funded by the Frontier Program from FedEx Instititue for Technology. (PI: Xiaofei Zhang)
 
-2022.05 Our grant proposal "Efficient and Scalable Learning and Management of Distributed Probabilistic Graphs" is selected for funding by NSF. (PI: Xiaofei Zhang)
+<p style="color:blue;">2022.05 Our grant proposal "Efficient and Scalable Learning and Management of Distributed Probabilistic Graphs" is selected for funding by NSF. (PI: Xiaofei Zhang)
 
 <!--
 ***

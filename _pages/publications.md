@@ -19,7 +19,7 @@ author_profile: true
 
 Book Chapter
 =======
-* Efficient Join Query Processing on the Cloud.  
+* Efficient Join Query Processing on the Cloud.   
 _Xiaofei Zhang_, Lei Chen. Cloud Computing and Digital Media, 191-234, 2014.
 
 Journals 
@@ -47,7 +47,7 @@ _Xiaofei Zhang_, Lei Chen, Min Wang. Proceedings of the VLDB Endowment Vol. 5 (1
 
 Conferences
 =======
-* A Generic Graph Sparsification Framework using Deep Reinforcement Learning.
+* A Generic Graph Sparsification Framework using Deep Reinforcement Learning.  
 Ryan Wickman, _Xiaofei Zhang_, Weizi Li. IEEE International Conference on Data Mining (ICDM), 2022 (to appear)
 
 * ELite: Cost-effective Approximation of Exploration-based Graph Analysis.  
