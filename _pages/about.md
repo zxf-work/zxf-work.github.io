@@ -16,7 +16,17 @@ I got my Ph.D. in computer science and engineering from the Hong Kong University
 I am fasinated by developing new algorithms and toolkits for time efficient and scalable data management. From traditional RDBMS query acceleration to emerging semantic-rich, knowledge-extractable graph data management, my research insterest spans accross novel storage model, query optimization (both exact and approximate), and the theory of data-intensive parallel/distributed computing.  
 
 
+_<span style="color:maroon">Funded Ph.D. position available!</span>_  
+If you are interested in database research, especially topics in large scale graph management, e.g., novel storage format, query engine design & optimization, approximate analytics and among others, please contact me. 
 
+
+## News
+
+2022.08 We received an external funding from FedEx Corporate Services Inc. to develop machine learning models for APT detection. (PI: Kan Yang, Co-PI: Xiaofei Zhang)
+
+2022.06 Our pilot project "Real-time Log Analysis for Network Security Monitoring using Graph Database" is funded by the Frontier Program from FedEx Instititue for Technology. (PI: Xiaofei Zhang)
+
+2022.05 Our grant proposal "Efficient and Scalable Learning and Management of Distributed Probabilistic Graphs" is selected for funding by NSF. (PI: Xiaofei Zhang)
 
 <!--
 ***

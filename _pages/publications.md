@@ -25,7 +25,7 @@ _Xiaofei Zhang_, Lei Chen. Cloud Computing and Digital Media, 191-234, 2014.
 Journals 
 =======
 * Hu-Fu: Efficient and Secure Spatial Queries over Data Federation.  
-Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, _Xiaofei Zhang_, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv. Proceedings of the VLDB Endowment Vol. 15 (to appear)
+Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, _Xiaofei Zhang_, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv. Proceedings of the VLDB Endowment Vol. 15 (6), pp. 1159-1172, 2022
 
 * Correlation Constraint Shortest Path over Large Multi-Relation Graphs.  
 _Xiaofei Zhang_, M. Tamer Özsu. Proceedings of the VLDB Endowment Vol. 12 (5), pp. 488-501, 2019
@@ -47,6 +47,9 @@ _Xiaofei Zhang_, Lei Chen, Min Wang. Proceedings of the VLDB Endowment Vol. 5 (1
 
 Conferences
 =======
+* A Generic Graph Sparsification Framework using Deep Reinforcement Learning.
+Ryan Wickman, _Xiaofei Zhang_, Weizi Li. IEEE International Conference on Data Mining (ICDM), 2022 (to appear)
+
 * ELite: Cost-effective Approximation of Exploration-based Graph Analysis.  
 _Xiaofei Zhang_, M. Tamer Özsu, Lei Chen. Proceedings of the 3rd Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), 2020
 
