@@ -12,18 +12,20 @@ author_profile: true
 {% endfor %}
 
 
-Fall 2022
+Fall 2023
 ======
 * COMP7118/8118-M50: Data Mining
 
 * COMP7116/8116: Advanced Database Systems
 
+* COMP7117/8117: Topics in Database Mgmt. Sys.
+
 
 Past
 ======
-COMP7116/8116: Advanced Database Systems (F2021)
+COMP7116/8116: Advanced Database Systems (F2021, F2022, S2023)
 
-COMP7118/8118: Data Mining (F2019, S/F2020, S/F2021, S2022)
+COMP7118/8118: Data Mining (F2019, S/F2020, S/F2021, S/F2022, S2023)
 
 COMP7991/8991: Big Data Computing (S2019)
 

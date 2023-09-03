@@ -22,9 +22,9 @@ If you are interested in database research, especially topics in large scale gra
 
 ## News
 
-<span style="color:blue;">2023.05</span> Our paper "VLS: A Reinforcement Learning-based Value Lookahead Strategy for Multi- product Order Fulfillment" is accepted to ADMA'23. Congratulations Ryan!
+<span style="color:blue;">2023.05</span> Our paper "VLS: A Reinforcement Learning-based Value Lookahead Strategy for Multi- product Order Fulfillment" is accepted to ADMA'23. Congratulations to Ryan!
 
-<span style="color:blue;">2023.05</span> Our paper "Efficient Quality-Diversity Optimization through Diverse Quality Species" is accepted to GECCO'23. Congratulations Ryan!
+<span style="color:blue;">2023.05</span> Our paper "Efficient Quality-Diversity Optimization through Diverse Quality Species" is accepted to GECCO'23. Congratulations to the group!
 
 <span style="color:blue;">2023.01</span> I am invited to serve on a NSF grant review panel. 
 
