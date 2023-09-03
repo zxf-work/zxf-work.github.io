@@ -32,8 +32,8 @@
 <meta property="og:title" content="Sitemap">
 
 
-  <link rel="canonical" href="https://zxf-work.github.io/sitemap/">
-  <meta property="og:url" content="https://zxf-work.github.io/sitemap/">
+  <link rel="canonical" href="http://localhost:4000/sitemap/">
+  <meta property="og:url" content="http://localhost:4000/sitemap/">
 
 
 
@@ -61,7 +61,7 @@
       "@context" : "http://schema.org",
       "@type" : "Person",
       "name" : "Xiaofei",
-      "url" : "https://zxf-work.github.io",
+      "url" : "http://localhost:4000",
       "sameAs" : null
     }
   </script>
@@ -74,7 +74,7 @@
 <!-- end SEO -->
 
 
-<link href="https://zxf-work.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Xiaofei Zhang Feed">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Xiaofei Zhang Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -86,34 +86,34 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="https://zxf-work.github.io/assets/css/main.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
     
 
 <!-- start custom head snippets -->
 
-<link rel="apple-touch-icon" sizes="57x57" href="https://zxf-work.github.io/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="60x60" href="https://zxf-work.github.io/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="72x72" href="https://zxf-work.github.io/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="76x76" href="https://zxf-work.github.io/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="114x114" href="https://zxf-work.github.io/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="120x120" href="https://zxf-work.github.io/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="144x144" href="https://zxf-work.github.io/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="152x152" href="https://zxf-work.github.io/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
-<link rel="apple-touch-icon" sizes="180x180" href="https://zxf-work.github.io/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
-<link rel="icon" type="image/png" href="https://zxf-work.github.io/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
-<link rel="icon" type="image/png" href="https://zxf-work.github.io/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
-<link rel="icon" type="image/png" href="https://zxf-work.github.io/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
-<link rel="icon" type="image/png" href="https://zxf-work.github.io/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
-<link rel="manifest" href="https://zxf-work.github.io/images/manifest.json?v=M44lzPylqQ">
-<link rel="mask-icon" href="https://zxf-work.github.io/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="apple-touch-icon" sizes="57x57" href="http://localhost:4000/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="http://localhost:4000/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="http://localhost:4000/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="http://localhost:4000/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="http://localhost:4000/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:4000/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="http://localhost:4000/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="http://localhost:4000/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
 <link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
 <meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="https://zxf-work.github.io/images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="https://zxf-work.github.io/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="msapplication-TileImage" content="http://localhost:4000/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="http://localhost:4000/images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="https://zxf-work.github.io/assets/css/academicons.css"/>
+<link rel="stylesheet" href="http://localhost:4000/assets/css/academicons.css"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
@@ -143,13 +143,13 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://zxf-work.github.io/">Xiaofei Zhang</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">Xiaofei Zhang</a></li>
           
             
-            <li class="masthead__menu-item"><a href="https://zxf-work.github.io/publications/">Publications</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="https://zxf-work.github.io/teaching/">Teaching</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/teaching/">Teaching</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -175,7 +175,7 @@
 
   <div class="author__avatar">
     
-    	<img src="https://zxf-work.github.io/images/head.jpg" class="author__avatar" alt="Xiaofei Zhang">
+    	<img src="http://localhost:4000/images/head.jpg" class="author__avatar" alt="Xiaofei Zhang">
     
   </div>
 
@@ -241,17 +241,24 @@
       <h1 class="page__title">Sitemap</h1>
     
     
-<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="https://zxf-work.github.io/sitemap.xml">XML version</a> available for digesting as well.</p>
+
+A list of all the posts and pages found on the site. For you robots out there is an [XML version](http://localhost:4000/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
 
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/404.html" rel="permalink">Page Not Found</a>
+        <a href="http://localhost:4000/404.html" rel="permalink">Page Not Found</a>
       
     </h2>
     
@@ -269,13 +276,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/" rel="permalink">About me</a>
+        <a href="http://localhost:4000/" rel="permalink">About me</a>
       
     </h2>
     
@@ -293,13 +307,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/archive-layout-with-content/" rel="permalink">Archive Layout with Content</a>
+        <a href="http://localhost:4000/archive-layout-with-content/" rel="permalink">Archive Layout with Content</a>
       
     </h2>
     
@@ -314,13 +335,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/categories/" rel="permalink">Posts by Category</a>
+        <a href="http://localhost:4000/categories/" rel="permalink">Posts by Category</a>
       
     </h2>
     
@@ -335,13 +363,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/collection-archive/" rel="permalink">Posts by Collection</a>
+        <a href="http://localhost:4000/collection-archive/" rel="permalink">Posts by Collection</a>
       
     </h2>
     
@@ -356,13 +391,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/cv/" rel="permalink">CV</a>
+        <a href="http://localhost:4000/cv/" rel="permalink">CV</a>
       
     </h2>
     
@@ -377,13 +419,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/assets/css/main.css" rel="permalink"></a>
+        <a href="http://localhost:4000/assets/css/main.css" rel="permalink"></a>
       
     </h2>
     
@@ -398,13 +447,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/markdown/" rel="permalink">Markdown</a>
+        <a href="http://localhost:4000/markdown/" rel="permalink">Markdown</a>
       
     </h2>
     
@@ -419,13 +475,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/non-menu-page/" rel="permalink">Page not in menu</a>
+        <a href="http://localhost:4000/non-menu-page/" rel="permalink">Page not in menu</a>
       
     </h2>
     
@@ -443,13 +506,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/page-archive/" rel="permalink">Page Archive</a>
+        <a href="http://localhost:4000/page-archive/" rel="permalink">Page Archive</a>
       
     </h2>
     
@@ -464,13 +534,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/portfolio/" rel="permalink">Portfolio</a>
+        <a href="http://localhost:4000/portfolio/" rel="permalink">Portfolio</a>
       
     </h2>
     
@@ -485,13 +562,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/publications/" rel="permalink"></a>
+        <a href="http://localhost:4000/publications/" rel="permalink"></a>
       
     </h2>
     
@@ -506,13 +590,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/services/" rel="permalink">Services</a>
+        <a href="http://localhost:4000/services/" rel="permalink">Services</a>
       
     </h2>
     
@@ -527,13 +618,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/sitemap/" rel="permalink">Sitemap</a>
+        <a href="http://localhost:4000/sitemap/" rel="permalink">Sitemap</a>
       
     </h2>
     
@@ -548,13 +646,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/tags/" rel="permalink">Posts by Tags</a>
+        <a href="http://localhost:4000/tags/" rel="permalink">Posts by Tags</a>
       
     </h2>
     
@@ -569,13 +674,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/talkmap.html" rel="permalink">Talk map</a>
+        <a href="http://localhost:4000/talkmap.html" rel="permalink">Talk map</a>
       
     </h2>
     
@@ -590,13 +702,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/talks/" rel="permalink">Talks and presentations</a>
+        <a href="http://localhost:4000/talks/" rel="permalink">Talks and presentations</a>
       
     </h2>
     
@@ -611,13 +730,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/teaching/" rel="permalink"></a>
+        <a href="http://localhost:4000/teaching/" rel="permalink"></a>
       
     </h2>
     
@@ -632,13 +758,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/terms/" rel="permalink">Terms and Privacy Policy</a>
+        <a href="http://localhost:4000/terms/" rel="permalink">Terms and Privacy Policy</a>
       
     </h2>
     
@@ -653,13 +786,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/year-archive/" rel="permalink">Blog posts</a>
+        <a href="http://localhost:4000/year-archive/" rel="permalink">Blog posts</a>
       
     </h2>
     
@@ -674,13 +814,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/assets/css/style.css" rel="permalink"></a>
+        <a href="http://localhost:4000/assets/css/style.css" rel="permalink"></a>
       
     </h2>
     
@@ -695,13 +842,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/about/" rel="permalink"></a>
+        <a href="http://localhost:4000/about/" rel="permalink"></a>
       
     </h2>
     
@@ -716,13 +870,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/about.html" rel="permalink"></a>
+        <a href="http://localhost:4000/about.html" rel="permalink"></a>
       
     </h2>
     
@@ -737,13 +898,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/resume" rel="permalink"></a>
+        <a href="http://localhost:4000/resume" rel="permalink"></a>
       
     </h2>
     
@@ -758,13 +926,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/md/" rel="permalink"></a>
+        <a href="http://localhost:4000/md/" rel="permalink"></a>
       
     </h2>
     
@@ -779,13 +954,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/markdown.html" rel="permalink"></a>
+        <a href="http://localhost:4000/markdown.html" rel="permalink"></a>
       
     </h2>
     
@@ -800,13 +982,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/nmp/" rel="permalink"></a>
+        <a href="http://localhost:4000/nmp/" rel="permalink"></a>
       
     </h2>
     
@@ -821,13 +1010,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/nmp.html" rel="permalink"></a>
+        <a href="http://localhost:4000/nmp.html" rel="permalink"></a>
       
     </h2>
     
@@ -842,13 +1038,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/wordpress/blog-posts/" rel="permalink"></a>
+        <a href="http://localhost:4000/wordpress/blog-posts/" rel="permalink"></a>
       
     </h2>
     
@@ -863,13 +1066,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/redirects.json" rel="permalink"></a>
+        <a href="http://localhost:4000/redirects.json" rel="permalink"></a>
       
     </h2>
     
@@ -884,13 +1094,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/markdown_generator/" rel="permalink">Jupyter notebook markdown generator</a>
+        <a href="http://localhost:4000/markdown_generator/" rel="permalink">Jupyter notebook markdown generator</a>
       
     </h2>
     
@@ -905,13 +1122,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/feed.xml" rel="permalink"></a>
+        <a href="http://localhost:4000/feed.xml" rel="permalink"></a>
       
     </h2>
     
@@ -926,13 +1150,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/sitemap.xml" rel="permalink"></a>
+        <a href="http://localhost:4000/sitemap.xml" rel="permalink"></a>
       
     </h2>
     
@@ -947,13 +1178,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/robots.txt" rel="permalink"></a>
+        <a href="http://localhost:4000/robots.txt" rel="permalink"></a>
       
     </h2>
     
@@ -967,16 +1205,24 @@
 
   </article>
 </div>
+
+
 
 <h2>Posts</h2>
 
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/posts/2012/08/blog-post-4/" rel="permalink">Future Blog Post
+        <a href="http://localhost:4000/posts/2012/08/blog-post-4/" rel="permalink">Future Blog Post
 </a>
       
     </h2>
@@ -996,7 +1242,7 @@
         
 
     
-    <p class="archive__item-excerpt" itemprop="description"><p>This post will show up by default. To disable scheduling of future posts, edit <code class="highlighter-rouge">config.yml</code> and set <code class="highlighter-rouge">future: false</code>.</p>
+    <p class="archive__item-excerpt" itemprop="description"><p>This post will show up by default. To disable scheduling of future posts, edit <code class="language-plaintext highlighter-rouge">config.yml</code> and set <code class="language-plaintext highlighter-rouge">future: false</code>.</p>
 </p>
     
     
@@ -1005,13 +1251,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/posts/2012/08/blog-post-4/" rel="permalink">Blog Post number 4
+        <a href="http://localhost:4000/posts/2012/08/blog-post-4/" rel="permalink">Blog Post number 4
 </a>
       
     </h2>
@@ -1041,13 +1294,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/posts/2014/08/blog-post-3/" rel="permalink">Blog Post number 3
+        <a href="http://localhost:4000/posts/2014/08/blog-post-3/" rel="permalink">Blog Post number 3
 </a>
       
     </h2>
@@ -1077,13 +1337,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/posts/2013/08/blog-post-2/" rel="permalink">Blog Post number 2
+        <a href="http://localhost:4000/posts/2013/08/blog-post-2/" rel="permalink">Blog Post number 2
 </a>
       
     </h2>
@@ -1113,13 +1380,20 @@
   </article>
 </div>
 
+
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/posts/2012/08/blog-post-1/" rel="permalink">Blog Post number 1
+        <a href="http://localhost:4000/posts/2012/08/blog-post-1/" rel="permalink">Blog Post number 1
 </a>
       
     </h2>
@@ -1149,15 +1423,33 @@
   </article>
 </div>
 
-<h2>portfolio</h2>
+
+
+
+
+
+
+  
+  
+  <h2>portfolio</h2>
+  
+  
+
+
+  
+  
+
+
+
+
 
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/portfolio/portfolio-1/" rel="permalink">Portfolio item number 1
+        <a href="http://localhost:4000/portfolio/portfolio-1/" rel="permalink">Portfolio item number 1
 </a>
       
     </h2>
@@ -1176,13 +1468,22 @@
   </article>
 </div>
 
+  
+
+  
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/portfolio/portfolio-2/" rel="permalink">Portfolio item number 2
+        <a href="http://localhost:4000/portfolio/portfolio-2/" rel="permalink">Portfolio item number 2
 </a>
       
     </h2>
@@ -1201,17 +1502,53 @@
   </article>
 </div>
 
-<h2>publications</h2>
+  
 
-<h2>talks</h2>
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+  
+  <h2>publications</h2>
+  
+  
+
+
+
+
+  
+  
+  <h2>talks</h2>
+  
+  
+
+
+  
+  
+
+
+
+
 
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/talks/2012-03-01-talk-1" rel="permalink">Talk 1 on Relevant Topic in Your Field
+        <a href="http://localhost:4000/talks/2012-03-01-talk-1" rel="permalink">Talk 1 on Relevant Topic in Your Field
 </a>
       
     </h2>
@@ -1232,13 +1569,22 @@
   </article>
 </div>
 
+  
+
+  
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/talks/2013-03-01-tutorial-1" rel="permalink">Tutorial 1 on Relevant Topic in Your Field
+        <a href="http://localhost:4000/talks/2013-03-01-tutorial-1" rel="permalink">Tutorial 1 on Relevant Topic in Your Field
 </a>
       
     </h2>
@@ -1260,13 +1606,22 @@
   </article>
 </div>
 
+  
+
+  
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/talks/2014-02-01-talk-2" rel="permalink">Talk 2 on Relevant Topic in Your Field
+        <a href="http://localhost:4000/talks/2014-02-01-talk-2" rel="permalink">Talk 2 on Relevant Topic in Your Field
 </a>
       
     </h2>
@@ -1288,13 +1643,22 @@
   </article>
 </div>
 
+  
+
+  
+  
+
+
+
+
+
 <div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="https://zxf-work.github.io/talks/2014-03-01-talk-3" rel="permalink">Conference Proceeding talk 3 on Relevant Topic in Your Field
+        <a href="http://localhost:4000/talks/2014-03-01-talk-3" rel="permalink">Conference Proceeding talk 3 on Relevant Topic in Your Field
 </a>
       
     </h2>
@@ -1315,7 +1679,17 @@
   </article>
 </div>
 
-<h2>teaching</h2>
+  
+
+
+
+  
+  
+  <h2>teaching</h2>
+  
+  
+
+
 
 
   </div>
@@ -1325,7 +1699,7 @@
     <div class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
-<a href="/sitemap/">Sitemap</a>
+<!-- <a href="/sitemap/">Sitemap</a> -->
 <!-- end custom footer snippets -->
 
         
@@ -1341,16 +1715,16 @@
       <li><a href="http://github.com/zxf-work"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="https://zxf-work.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2019 Xiaofei. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2023 Xiaofei. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
 
-    <script src="https://zxf-work.github.io/assets/js/main.min.js"></script>
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
 
 
 

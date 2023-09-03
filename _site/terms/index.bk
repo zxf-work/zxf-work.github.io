@@ -19,7 +19,7 @@
 
 
 
-<title>Talk 1 on Relevant Topic in Your Field - Xiaofei Zhang</title>
+<title>Terms and Privacy Policy - Xiaofei Zhang</title>
 
 
 
@@ -29,15 +29,13 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Xiaofei Zhang">
-<meta property="og:title" content="Talk 1 on Relevant Topic in Your Field">
+<meta property="og:title" content="Terms and Privacy Policy">
 
 
-  <link rel="canonical" href="http://localhost:4000/talks/2012-03-01-talk-1">
-  <meta property="og:url" content="http://localhost:4000/talks/2012-03-01-talk-1">
+  <link rel="canonical" href="http://localhost:4000/terms/">
+  <meta property="og:url" content="http://localhost:4000/terms/">
 
 
-
-  <meta property="og:description" content="This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!">
 
 
 
@@ -50,9 +48,6 @@
 
 
 
-
-  <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2012-03-01T00:00:00-08:00">
 
 
 
@@ -244,28 +239,69 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Talk 1 on Relevant Topic in Your Field">
-    <meta itemprop="description" content="This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!">
-    <meta itemprop="datePublished" content="March 01, 2012">
+    <meta itemprop="headline" content="Terms and Privacy Policy">
     
+    
+    <meta itemprop="dateModified" content="June 06, 2016">
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Talk 1 on Relevant Topic in Your Field
+          <h1 class="page__title" itemprop="headline">Terms and Privacy Policy
 </h1>
           
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="2012-03-01T00:00:00-08:00">March 01, 2012</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2016-06-06">June 06, 2016</time></p>
         
         
-
+        
+        
+             
+        
+    
         </header>
       
 
       <section class="page__content" itemprop="text">
-        <p>This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!</p>
+        
+<aside class="sidebar__right">
+<nav class="toc" markdown="1">
+<header><h4 class="nav__title"><i class="fa fa-file-text"></i> On This Page</h4></header>
+*  Auto generated table of contents
+{:toc .toc__menu}
+</nav>
+</aside>
 
+## Privacy Policy
+
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+
+### Log Files
+
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamp
+* Referring and exit pages
+* Number of clicks
+
+All of this information is not linked to anything that is personally identifiable.
+
+### Cookies and Web Beacons
+
+When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+
+If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+
+#### Google Analytics
+
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
         
       </section>
 
@@ -280,32 +316,8 @@
 
       
 
-<section class="page__share">
-  
-    <h4 class="page__share-title">Share on</h4>
-  
-
-  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/talks/2012-03-01-talk-1" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
-
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/talks/2012-03-01-talk-1" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-
-  <a href="https://plus.google.com/share?url=http://localhost:4000/talks/2012-03-01-talk-1" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
-
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/talks/2012-03-01-talk-1" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-</section>
-
       
 
-
-  <nav class="pagination">
-    
-      <a href="#" class="pagination--pager disabled">Previous</a>
-    
-    
-      <a href="http://localhost:4000/talks/2013-03-01-tutorial-1" class="pagination--pager" title="Tutorial 1 on Relevant Topic in Your Field
-">Next</a>
-    
-  </nav>
 
     </div>
 

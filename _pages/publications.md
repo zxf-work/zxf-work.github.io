@@ -47,10 +47,10 @@ _Xiaofei Zhang_, Lei Chen, Min Wang. Proceedings of the VLDB Endowment Vol. 5 (1
 
 Conferences
 =======
-* VLS: A Reinforcement Learning-based Value Lookahead Strategy for Multi- product Order Fulfillment.
+* VLS: A Reinforcement Learning-based Value Lookahead Strategy for Multi- product Order Fulfillment.  
 Ryan Wickman, Junxuan Li, _Xiaofei Zhang_. International Conference on Advanced Data Mining and Applications (ADMA), 2023
 
-* Efficient Quality-Diversity Optimization through Diverse Quality Species.
+* Efficient Quality-Diversity Optimization through Diverse Quality Species.  
 Ryan Wickman, Bibek Poudel, Michael Villarreal, _Xiaofei Zhang_, Weizi Li.  GECCO Companion 2023, pp. 699-702.
 
 * A Generic Graph Sparsification Framework using Deep Reinforcement Learning.  
