@@ -1,0 +1,35 @@
+main:
+
+  - title: "Efficient quality-diversity optimization through diverse quality species"
+    authors: Ryan Wickman, Bibek Poudel, Taylor Michael Villarreal, Xiaofei Zhang, Weizi Li
+    conference: Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO), pp. 699-702, 2023
+    pdf: https://dl.acm.org/doi/abs/10.1145/3583133.3590581
+    code: https://github.com/rwickman/DQS
+
+  - title: "A Generic Graph Sparsification Framework using Deep Reinforcement Learning"
+    authors: Ryan Wickman, Xiaofei Zhang, Weizi Li
+    conference: IEEE International Conference on Data Mining (ICDM), pp. 1221-1226, 2022
+    pdf: https://arxiv.org/abs/2112.01565
+    code: https://github.com/rwickman/SparRL-PyTorch
+
+  - title: "Hu-Fu: Efficient and Secure Spatial Queries over Data Federation"
+    authors: Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, Xiaofei Zhang, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv
+    #conference_short: MICCAI
+    conference: Pro. of the VLDB Endowment Vol. 15(6), pp. 1159-1172.
+    pdf: https://www.vldb.org/pvldb/vol15/p1159-tong.pdf
+    code: https://github.com/BUAA-BDA/OpenHuFu
+    #bibtex: 
+    #image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: "Correlation Constraint Shortest Path over Large Multi-Relation Graphs"
+    authors: Xiaofei Zhang, M. Tamer Özsu
+    #conference_short: CVPR
+    conference: Proc. of the VLDB Endowment, Vol. 12(5), pp. 488-501
+    pdf: https://www.vldb.org/pvldb/vol12/p488-zhang.pdf
+    #code: 
+    #page: 
+    #bibtex: 
+    # notes: Orale presentation
+    #image: ./assets/img/teaser_example.png
+
