@@ -19,8 +19,6 @@ I earned my Ph.D. in Computer Science and Engineering from the Hong Kong Univers
 - **[May. 2024]** Jiacheng joined the group, welcome!
 - **[May. 2024]** Ryan has successfully defended his doctoral dissertation. Congratulations to Ryan!
 - **[Apr. 2024]** We will be organizing a workshop colocated with IEEE BigData 2024, stay tuned!
-- **[Sep. 2023]** Our paper "VLS: A Reinforcement Learning-based Value Lookahead Strategy for Multi- product Order Fulfillment" is accepted to ADMA'23. Congratulations to Ryan!
-- **[Jun. 2023]** Our paper "Efficient Quality-Diversity Optimization through Diverse Quality Species" is accepted to GECCO'23. Congratulations to the group!
 
 {% include_relative _includes/publications.md %}
 
