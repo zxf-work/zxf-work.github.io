@@ -15,6 +15,8 @@ I earned my Ph.D. in Computer Science and Engineering from the Hong Kong Univers
 
 ## News
 
+- **[Apr. 2026]** Distinguished PC Award for ICDE'26.
+- **[Jan. 2026]** Full Member, Sigma Xi Scientific Research Honor Society.
 - **[Dec. 2024]** Our [Next-Gen-BiGLA workshop](https://nextgenbigla.github.io/) was a success! Thank you all for your contribution and participation!
 - **[May. 2024]** Jiacheng joined the group, welcome!
 - **[May. 2024]** Ryan has successfully defended his doctoral dissertation. Congratulations to Ryan!

@@ -1,16 +1,16 @@
 main:
 
-  - title: "Speciated Unsupervised Skill Discovery"
-    authors: Ryan Wickman, Xiaofei Zhang
-    conference: IEEE International Confernece on Data Mining (ICDM), 2025. To Appear.
-    #pdf: https://dl.acm.org/doi/abs/10.1145/3583133.3590581
-    #code: https://github.com/rwickman/DQS
-
   - title: "ChronoConnect: Tracking Pathways Along Highly Dynamic Vertices in Temporal Graphs"
     authors: Jiacheng Ding, Cong Guo, Xiaofei Zhang
-    conference: IEEE International Confernece on Data Mining (ICDM), 2025. Demo Track. To Appear.
-    #pdf: https://dl.acm.org/doi/abs/10.1145/3583133.3590581
-    #code: https://github.com/rwickman/DQS
+    conference: 2025 IEEE International Conference on Data Mining (ICDM), Demonstration, pp. 2593-2596.
+    pdf: "https://ieeexplore.ieee.org/document/11415759?denied="
+    code: https://github.com/graphuofm/chronoconnect
+
+  - title: "Speciated Unsupervised Skill Discovery"
+    authors: Ryan Wickman, Xiaofei Zhang
+    conference: 2025 IEEE International Conference on Data Mining (ICDM), pp. 1655-1663.
+    pdf: https://www.computer.org/csdl/proceedings-article/icdm/2025/959900b633/2eowrq4k4Ao
+    code: https://github.com/rwickman/DQS
 
   - title: "Efficient quality-diversity optimization through diverse quality species"
     authors: Ryan Wickman, Bibek Poudel, Taylor Michael Villarreal, Xiaofei Zhang, Weizi Li
@@ -44,4 +44,3 @@ main:
     #bibtex: 
     # notes: Orale presentation
     #image: ./assets/img/teaser_example.png
-
