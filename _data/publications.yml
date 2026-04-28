@@ -2,31 +2,35 @@ main:
 
   - title: "ChronoConnect: Tracking Pathways Along Highly Dynamic Vertices in Temporal Graphs"
     authors: Jiacheng Ding, Cong Guo, Xiaofei Zhang
+    conference_short: ICDM 2025
     conference: 2025 IEEE International Conference on Data Mining (ICDM), Demonstration, pp. 2593-2596.
     pdf: "https://ieeexplore.ieee.org/document/11415759?denied="
     code: https://github.com/graphuofm/chronoconnect
 
   - title: "Speciated Unsupervised Skill Discovery"
     authors: Ryan Wickman, Xiaofei Zhang
+    conference_short: ICDM 2025
     conference: 2025 IEEE International Conference on Data Mining (ICDM), pp. 1655-1663.
     pdf: https://www.computer.org/csdl/proceedings-article/icdm/2025/959900b633/2eowrq4k4Ao
     code: https://github.com/rwickman/DQS
 
   - title: "Efficient quality-diversity optimization through diverse quality species"
     authors: Ryan Wickman, Bibek Poudel, Taylor Michael Villarreal, Xiaofei Zhang, Weizi Li
+    conference_short: GECCO 2023
     conference: Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO), pp. 699-702, 2023
     pdf: https://dl.acm.org/doi/abs/10.1145/3583133.3590581
     code: https://github.com/rwickman/DQS
 
   - title: "A Generic Graph Sparsification Framework using Deep Reinforcement Learning"
     authors: Ryan Wickman, Xiaofei Zhang, Weizi Li
+    conference_short: ICDM 2022
     conference: IEEE International Conference on Data Mining (ICDM), pp. 1221-1226, 2022
     pdf: https://arxiv.org/abs/2112.01565
     code: https://github.com/rwickman/SparRL-PyTorch
 
   - title: "Hu-Fu: Efficient and Secure Spatial Queries over Data Federation"
     authors: Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, Xiaofei Zhang, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv
-    #conference_short: MICCAI
+    conference_short: PVLDB
     conference: Pro. of the VLDB Endowment Vol. 15(6), pp. 1159-1172.
     pdf: https://www.vldb.org/pvldb/vol15/p1159-tong.pdf
     code: https://github.com/BUAA-BDA/OpenHuFu
@@ -36,7 +40,7 @@ main:
 
   - title: "Correlation Constraint Shortest Path over Large Multi-Relation Graphs"
     authors: Xiaofei Zhang, M. Tamer Özsu
-    #conference_short: CVPR
+    conference_short: PVLDB
     conference: Proc. of the VLDB Endowment, Vol. 12(5), pp. 488-501
     pdf: https://www.vldb.org/pvldb/vol12/p488-zhang.pdf
     #code: 
