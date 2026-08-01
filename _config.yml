@@ -1,4 +1,4 @@
-title: Dr. Xiaofei Zhang
+title: Xiaofei Zhang
 position: Associate Professor
 affiliation: CS, University of Memphis
 affiliation_link: https://www.memphis.edu/cs/
@@ -15,12 +15,11 @@ github_link: https://github.com/zxf-work
 # linkedin:
 # twitter:
 
-avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 auto_dark_mode: true
-font: "Serif"
+font: "Sans Serif"
 
 remote_theme: yaoyao-liu/minimal-light
 

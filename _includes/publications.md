@@ -19,21 +19,21 @@
   {% endif %}
   <div class="publication-details">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="author">{{ link.authors | replace: "Xiaofei Zhang", "<strong>Xiaofei Zhang</strong>" }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn" role="button" target="_blank" rel="noopener">PDF</a>
+      <a href="{{ link.pdf }}" class="btn" target="_blank" rel="noopener">paper</a>
       {% endif %}
       {% if link.code %} 
-      <a href="{{ link.code }}" class="btn" role="button" target="_blank" rel="noopener">Code</a>
+      <a href="{{ link.code }}" class="btn" target="_blank" rel="noopener">code</a>
       {% endif %}
       {% if link.page %} 
-      <a href="{{ link.page }}" class="btn" role="button" target="_blank" rel="noopener">Project Page</a>
+      <a href="{{ link.page }}" class="btn" target="_blank" rel="noopener">project</a>
       {% endif %}
       {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn" role="button" target="_blank" rel="noopener">BibTex</a>
+      <a href="{{ link.bibtex }}" class="btn" target="_blank" rel="noopener">bibtex</a>
       {% endif %}
       {% if link.notes %} 
       <strong class="publication-note">{{ link.notes }}</strong>
