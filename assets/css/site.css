@@ -30,7 +30,7 @@ a:hover { color: var(--accent-hover); text-decoration: underline; }
 strong { color: var(--heading); font-weight: 650; }
 p, h1, h2, h3, ol, dl { margin-top: 0; }
 h1, h2, h3 { color: var(--heading); line-height: 1.18; }
-h1 { margin-bottom: 0; font-size: clamp(3.25rem, 8vw, 5rem); font-weight: 690; letter-spacing: -0.055em; }
+h1 { margin-bottom: 0; font-size: clamp(2.75rem, 6.5vw, 4.25rem); font-weight: 690; letter-spacing: -0.05em; }
 h2 { margin-bottom: 0; font-size: clamp(1.75rem, 4vw, 2.35rem); font-weight: 670; letter-spacing: -0.035em; }
 h3 { margin-bottom: 0; font-size: 1.08rem; font-weight: 680; letter-spacing: -0.015em; }
 
@@ -45,7 +45,7 @@ h3 { margin-bottom: 0; font-size: 1.08rem; font-weight: 680; letter-spacing: -0.
 .site-nav a { color: var(--muted); font-size: 0.8rem; font-weight: 630; }
 .site-nav a:hover { color: var(--accent); }
 
-.hero { padding: clamp(5.5rem, 12vw, 8rem) 0 clamp(4.5rem, 9vw, 6.5rem); }
+.hero { padding: clamp(4rem, 9vw, 6rem) 0 clamp(3.25rem, 7vw, 4.5rem); }
 .eyebrow, .section-kicker {
   color: var(--accent);
   font-size: 0.72rem;
@@ -54,13 +54,14 @@ h3 { margin-bottom: 0; font-size: 1.08rem; font-weight: 680; letter-spacing: -0.
   text-transform: uppercase;
 }
 .eyebrow { margin-bottom: 1.2rem; }
-.hero-summary { max-width: 830px; margin: 1.8rem 0 0; color: var(--muted); font-size: clamp(1.2rem, 2.6vw, 1.5rem); line-height: 1.55; letter-spacing: -0.012em; }
-.profile-links { display: flex; flex-wrap: wrap; gap: 0.55rem 1.45rem; margin-top: 2rem; }
+.hero-summary { max-width: 830px; margin: 1.5rem 0 0; color: var(--muted); font-size: clamp(1.15rem, 2.4vw, 1.42rem); line-height: 1.55; letter-spacing: -0.012em; }
+.profile-links { display: flex; flex-wrap: wrap; gap: 0.55rem 1.45rem; margin-top: 1.6rem; }
 .profile-links a, .text-link { font-size: 0.84rem; font-weight: 670; }
 
-.content-section { padding: clamp(4rem, 8vw, 5.5rem) 0; border-top: 1px solid var(--border); scroll-margin-top: 1rem; }
-.section-title, .section-intro { display: grid; grid-template-columns: minmax(240px, 0.9fr) minmax(0, 1.35fr); gap: clamp(2rem, 6vw, 4.5rem); align-items: start; }
+.content-section { padding: clamp(2.75rem, 6vw, 4rem) 0; border-top: 1px solid var(--border); scroll-margin-top: 1rem; }
+.about, .section-intro { display: grid; grid-template-columns: minmax(240px, 0.9fr) minmax(0, 1.35fr); gap: clamp(2rem, 6vw, 4.5rem); align-items: start; }
 .section-title .section-kicker, .section-intro .section-kicker { margin-bottom: 0.65rem; }
+.section-title h2 { max-width: 330px; font-size: clamp(1.4rem, 2.5vw, 1.8rem); line-height: 1.3; letter-spacing: -0.025em; }
 .section-intro { margin-bottom: 2rem; }
 .section-intro > p { max-width: 520px; margin: 0; color: var(--muted); }
 .section-intro.compact { grid-template-columns: 1fr; }
@@ -74,7 +75,7 @@ h3 { margin-bottom: 0; font-size: 1.08rem; font-weight: 680; letter-spacing: -0.
 .news-list dd { margin: 0; }
 
 .publications-section > .section-kicker { margin-bottom: 0.65rem; }
-.student-callout { display: grid; grid-template-columns: minmax(220px, 0.8fr) minmax(0, 1.4fr); gap: clamp(2rem, 6vw, 4.5rem); margin: 2rem 0 5rem; padding: clamp(2rem, 5vw, 3.25rem); background: var(--surface-soft); border: 1px solid var(--border); border-radius: 0.8rem; }
+.student-callout { display: grid; grid-template-columns: minmax(220px, 0.8fr) minmax(0, 1.4fr); gap: clamp(2rem, 6vw, 4.5rem); margin: 1.25rem 0 3.5rem; padding: clamp(1.75rem, 4vw, 2.75rem); background: var(--surface-soft); border: 1px solid var(--border); border-radius: 0.8rem; }
 .student-callout p { margin-bottom: 1rem; }
 .student-callout .section-kicker { margin-bottom: 0.65rem; }
 
@@ -102,15 +103,15 @@ h3 { margin-bottom: 0; font-size: 1.08rem; font-weight: 680; letter-spacing: -0.
   .site-header { min-height: 68px; }
   .brand { font-size: 0.88rem; }
   .site-nav { gap: 1rem; }
-  .hero { padding-top: 4.5rem; }
-  .section-title, .section-intro, .student-callout { grid-template-columns: 1fr; gap: 1.25rem; }
+  .hero { padding-top: 3.5rem; }
+  .about, .section-intro, .student-callout { grid-template-columns: 1fr; gap: 1.25rem; }
   .news-list > div { grid-template-columns: 92px minmax(0, 1fr); gap: 0.8rem; }
   .site-footer { grid-template-columns: 1fr; gap: 0.8rem; }
   .site-footer p:last-child { text-align: left; }
 }
 
 @media (max-width: 420px) {
-  h1 { font-size: 3rem; }
+  h1 { font-size: 2.65rem; }
   .profile-links { gap-right: 1rem; }
 }
 
