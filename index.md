@@ -53,6 +53,7 @@ layout: homepage
   </div>
 
   <dl class="news-list">
+    <div><dt>Aug 2026</dt><dd>Our paper <strong>Hawkeye: Seeing One Layer Deeper — A Cohesion-Aware Structural Channel for Temporal Link Prediction</strong>, with Jiacheng, was accepted to CIKM 2026.</dd></div>
     <div><dt>May 2026</dt><dd>Our work <strong>SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation</strong>, led by Jiacheng, was accepted to the VLDB 2026 Demonstrations track. We look forward to presenting the demo.</dd></div>
     <div><dt>Apr 2026</dt><dd>Received a Distinguished PC Award from ICDE 2026.</dd></div>
     <div><dt>Jan 2026</dt><dd>Elected a full member of the Sigma Xi Scientific Research Honor Society.</dd></div>

@@ -18,7 +18,13 @@
   </div>
   {% endif %}
   <div class="publication-details">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title">
+        {% if link.pdf %}
+        <a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a>
+        {% else %}
+        {{ link.title }}
+        {% endif %}
+      </div>
       <div class="author">{{ link.authors | replace: "Xiaofei Zhang", "<strong>Xiaofei Zhang</strong>" }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>

@@ -1,5 +1,11 @@
 main:
 
+  - title: "Hawkeye: Seeing One Layer Deeper — A Cohesion-Aware Structural Channel for Temporal Link Prediction"
+    authors: Jiacheng Ding, Xiaofei Zhang
+    conference_short: CIKM 2026
+    conference: To appear in the ACM International Conference on Information and Knowledge Management (CIKM), 2026.
+    notes: To appear
+
   - title: "ChronoConnect: Tracking Pathways Along Highly Dynamic Vertices in Temporal Graphs"
     authors: Jiacheng Ding, Cong Guo, Xiaofei Zhang
     conference_short: ICDM 2025
